@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[401]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[Olivia]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Brooks]]>
+    </COLUMN>
+    <COLUMN NAME="CERTIFICATION">
+      <![CDATA[NASM-CPT]]>
+    </COLUMN>
+    <COLUMN NAME="SPECIALIZATION">
+      <![CDATA[Strength Training]]>
+    </COLUMN>
+    <COLUMN NAME="YEARSEXPERIENCE">
+      <![CDATA[6]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[402]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[Daniel]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Reed]]>
+    </COLUMN>
+    <COLUMN NAME="CERTIFICATION">
+      <![CDATA[ACE-CPT]]>
+    </COLUMN>
+    <COLUMN NAME="SPECIALIZATION">
+      <![CDATA[Weight Loss]]>
+    </COLUMN>
+    <COLUMN NAME="YEARSEXPERIENCE">
+      <![CDATA[4]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[403]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[Priya]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Shah]]>
+    </COLUMN>
+    <COLUMN NAME="CERTIFICATION">
+      <![CDATA[NSCA-CSCS]]>
+    </COLUMN>
+    <COLUMN NAME="SPECIALIZATION">
+      <![CDATA[Athletic Performance]]>
+    </COLUMN>
+    <COLUMN NAME="YEARSEXPERIENCE">
+      <![CDATA[8]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[404]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[Marcus]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Hill]]>
+    </COLUMN>
+    <COLUMN NAME="CERTIFICATION">
+      <![CDATA[ISSA-CPT]]>
+    </COLUMN>
+    <COLUMN NAME="SPECIALIZATION">
+      <![CDATA[Strength Training]]>
+    </COLUMN>
+    <COLUMN NAME="YEARSEXPERIENCE">
+      <![CDATA[5]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

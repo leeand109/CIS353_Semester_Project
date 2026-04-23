@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[301]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Chest]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[301]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Triceps]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[302]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Glutes]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[302]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Quadriceps]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[303]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Back]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[303]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Hamstrings]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[304]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Cardiovascular]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[305]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Cardiovascular]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[306]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Back]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[306]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Biceps]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[307]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Core]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[308]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEGROUP">
+      <![CDATA[Hamstrings]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

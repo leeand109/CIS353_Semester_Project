@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTNAME">
+      <![CDATA[Sarah Lee]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTPHONE">
+      <![CDATA[616-555-2001]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[2]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTNAME">
+      <![CDATA[John Thang]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTPHONE">
+      <![CDATA[616-555-2002]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTNAME">
+      <![CDATA[Emily Johnson]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTPHONE">
+      <![CDATA[616-555-2003]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTNAME">
+      <![CDATA[Chris Carter]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTPHONE">
+      <![CDATA[616-555-2004]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTNAME">
+      <![CDATA[Ana Martinez]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTPHONE">
+      <![CDATA[616-555-2005]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[6]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTNAME">
+      <![CDATA[Paul Davis]]>
+    </COLUMN>
+    <COLUMN NAME="EMERGENCYCONTACTPHONE">
+      <![CDATA[616-555-2006]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

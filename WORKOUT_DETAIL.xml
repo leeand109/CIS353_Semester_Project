@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[701]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[601]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[301]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[8]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[135]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[90]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[702]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[601]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[306]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[10]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[90]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[60]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[703]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[602]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[302]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[6]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[185]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[120]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[704]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[602]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[307]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[0]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[45]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[705]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[603]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[304]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[0]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[0]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[706]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[603]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[305]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[0]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[0]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[707]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[604]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[304]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[0]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[0]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[708]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[605]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[306]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[12]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[70]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[60]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[709]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[605]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[307]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[0]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[30]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[710]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[606]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[303]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[225]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[150]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[711]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[606]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[302]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[205]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[120]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[712]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[607]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[301]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[10]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[95]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[75]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[713]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[607]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[308]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[2]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[0]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[20]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[714]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[608]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[308]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[0]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[25]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="DETAILID">
+      <![CDATA[715]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[609]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[305]]>
+    </COLUMN>
+    <COLUMN NAME="SETS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="REPS">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHTLIFTED">
+      <![CDATA[0]]>
+    </COLUMN>
+    <COLUMN NAME="RESTSECONDS">
+      <![CDATA[0]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

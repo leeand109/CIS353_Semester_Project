@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="PHONE">
+      <![CDATA[616-555-1001]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="PHONE">
+      <![CDATA[616-555-1002]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[2]]>
+    </COLUMN>
+    <COLUMN NAME="PHONE">
+      <![CDATA[616-555-1003]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="PHONE">
+      <![CDATA[616-555-1004]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="PHONE">
+      <![CDATA[616-555-1005]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="PHONE">
+      <![CDATA[616-555-1006]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="PHONE">
+      <![CDATA[616-555-1007]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[6]]>
+    </COLUMN>
+    <COLUMN NAME="PHONE">
+      <![CDATA[616-555-1008]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

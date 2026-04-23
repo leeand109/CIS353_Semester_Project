@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[301]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISENAME">
+      <![CDATA[Bench Press]]>
+    </COLUMN>
+    <COLUMN NAME="CATEGORY">
+      <![CDATA[Strength]]>
+    </COLUMN>
+    <COLUMN NAME="EQUIPMENTREQUIRED">
+      <![CDATA[Barbell]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[302]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISENAME">
+      <![CDATA[Squat]]>
+    </COLUMN>
+    <COLUMN NAME="CATEGORY">
+      <![CDATA[Strength]]>
+    </COLUMN>
+    <COLUMN NAME="EQUIPMENTREQUIRED">
+      <![CDATA[Barbell]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[303]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISENAME">
+      <![CDATA[Deadlift]]>
+    </COLUMN>
+    <COLUMN NAME="CATEGORY">
+      <![CDATA[Strength]]>
+    </COLUMN>
+    <COLUMN NAME="EQUIPMENTREQUIRED">
+      <![CDATA[Barbell]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[304]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISENAME">
+      <![CDATA[Treadmill Run]]>
+    </COLUMN>
+    <COLUMN NAME="CATEGORY">
+      <![CDATA[Cardio]]>
+    </COLUMN>
+    <COLUMN NAME="EQUIPMENTREQUIRED">
+      <![CDATA[Treadmill]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[305]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISENAME">
+      <![CDATA[Cycling]]>
+    </COLUMN>
+    <COLUMN NAME="CATEGORY">
+      <![CDATA[Cardio]]>
+    </COLUMN>
+    <COLUMN NAME="EQUIPMENTREQUIRED">
+      <![CDATA[Stationary Bike]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[306]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISENAME">
+      <![CDATA[Lat Pulldown]]>
+    </COLUMN>
+    <COLUMN NAME="CATEGORY">
+      <![CDATA[Strength]]>
+    </COLUMN>
+    <COLUMN NAME="EQUIPMENTREQUIRED">
+      <![CDATA[Cable Machine]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[307]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISENAME">
+      <![CDATA[Plank]]>
+    </COLUMN>
+    <COLUMN NAME="CATEGORY">
+      <![CDATA[Endurance]]>
+    </COLUMN>
+    <COLUMN NAME="EQUIPMENTREQUIRED">
+      <![CDATA[Mat]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="EXERCISEID">
+      <![CDATA[308]]>
+    </COLUMN>
+    <COLUMN NAME="EXERCISENAME">
+      <![CDATA[Hamstring Stretch]]>
+    </COLUMN>
+    <COLUMN NAME="CATEGORY">
+      <![CDATA[Flexibility]]>
+    </COLUMN>
+    <COLUMN NAME="EQUIPMENTREQUIRED">
+      <![CDATA[None]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

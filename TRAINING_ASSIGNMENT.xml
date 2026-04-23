@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="ASSIGNMENTID">
+      <![CDATA[501]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[401]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-06T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-03-31T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="FOCUSAREA">
+      <![CDATA[Upper Body Strength]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ASSIGNMENTID">
+      <![CDATA[502]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[2]]>
+    </COLUMN>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[402]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-08T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-03-31T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="FOCUSAREA">
+      <![CDATA[Fat Loss]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ASSIGNMENTID">
+      <![CDATA[503]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[402]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-12T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-04-15T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="FOCUSAREA">
+      <![CDATA[Cardio Endurance]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ASSIGNMENTID">
+      <![CDATA[504]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[401]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-16T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-04-30T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="FOCUSAREA">
+      <![CDATA[General Strength]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ASSIGNMENTID">
+      <![CDATA[505]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[403]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-02-01T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-05-31T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="FOCUSAREA">
+      <![CDATA[Athletic Performance]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ASSIGNMENTID">
+      <![CDATA[506]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="TRAINERID">
+      <![CDATA[404]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-14T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-02-28T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="FOCUSAREA">
+      <![CDATA[Lower Body Strength]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

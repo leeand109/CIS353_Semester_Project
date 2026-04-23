@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[201]]>
+    </COLUMN>
+    <COLUMN NAME="NOTEID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="NOTETEXT">
+      <![CDATA[Initial intake assessment completed.]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[202]]>
+    </COLUMN>
+    <COLUMN NAME="NOTEID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="NOTETEXT">
+      <![CDATA[Weight decreased after first month of training.]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[204]]>
+    </COLUMN>
+    <COLUMN NAME="NOTEID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="NOTETEXT">
+      <![CDATA[Body fat percentage improved slightly.]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[205]]>
+    </COLUMN>
+    <COLUMN NAME="NOTEID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="NOTETEXT">
+      <![CDATA[Member requested more cardio-focused programming.]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[209]]>
+    </COLUMN>
+    <COLUMN NAME="NOTEID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="NOTETEXT">
+      <![CDATA[Member showed steady progress in consistency.]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[210]]>
+    </COLUMN>
+    <COLUMN NAME="NOTEID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="NOTETEXT">
+      <![CDATA[Needs follow-up on membership renewal status.]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

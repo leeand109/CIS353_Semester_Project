@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[201]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-01-06T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[182]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[70]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[18.5]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[78]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[202]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-02-06T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[179.5]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[70]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[17.8]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[79.2]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[203]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[2]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-01-08T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[195]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[72]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[22]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[81]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[204]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[2]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-02-08T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[192]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[72]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[21.1]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[82.3]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[205]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-01-11T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[140]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[65]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[24]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[56.5]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[206]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-02-11T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[138]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[65]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[23.2]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[57.1]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[207]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-01-13T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[210]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[74]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[27.5]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[84]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[208]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-01-16T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[152]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[66]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[20]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[61]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[209]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-02-16T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[149]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[66]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[19.4]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[62.2]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEASUREMENTID">
+      <![CDATA[210]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[6]]>
+    </COLUMN>
+    <COLUMN NAME="MEASUREDATE">
+      <![CDATA[2026-01-19T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="WEIGHT">
+      <![CDATA[187]]>
+    </COLUMN>
+    <COLUMN NAME="HEIGHT">
+      <![CDATA[71]]>
+    </COLUMN>
+    <COLUMN NAME="BODYFATPERCENT">
+      <![CDATA[25]]>
+    </COLUMN>
+    <COLUMN NAME="MUSCLEMASS">
+      <![CDATA[73.4]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

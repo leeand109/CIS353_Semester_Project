@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[Andrew]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Lee]]>
+    </COLUMN>
+    <COLUMN NAME="DATEOFBIRTH">
+      <![CDATA[2003-04-15T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="GENDER">
+      <![CDATA[Male]]>
+    </COLUMN>
+    <COLUMN NAME="EMAIL">
+      <![CDATA[andrew.lee@email.com]]>
+    </COLUMN>
+    <COLUMN NAME="JOINDATE">
+      <![CDATA[2026-01-05T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPSTATUS">
+      <![CDATA[Active]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[2]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[CK]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Thang]]>
+    </COLUMN>
+    <COLUMN NAME="DATEOFBIRTH">
+      <![CDATA[2002-09-11T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="GENDER">
+      <![CDATA[Male]]>
+    </COLUMN>
+    <COLUMN NAME="EMAIL">
+      <![CDATA[ck.thang@email.com]]>
+    </COLUMN>
+    <COLUMN NAME="JOINDATE">
+      <![CDATA[2026-01-07T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPSTATUS">
+      <![CDATA[Active]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[Maya]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Johnson]]>
+    </COLUMN>
+    <COLUMN NAME="DATEOFBIRTH">
+      <![CDATA[1999-06-22T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="GENDER">
+      <![CDATA[Female]]>
+    </COLUMN>
+    <COLUMN NAME="EMAIL">
+      <![CDATA[maya.johnson@email.com]]>
+    </COLUMN>
+    <COLUMN NAME="JOINDATE">
+      <![CDATA[2026-01-10T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPSTATUS">
+      <![CDATA[Active]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[Liam]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Carter]]>
+    </COLUMN>
+    <COLUMN NAME="DATEOFBIRTH">
+      <![CDATA[1998-12-03T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="GENDER">
+      <![CDATA[Male]]>
+    </COLUMN>
+    <COLUMN NAME="EMAIL">
+      <![CDATA[liam.carter@email.com]]>
+    </COLUMN>
+    <COLUMN NAME="JOINDATE">
+      <![CDATA[2026-01-12T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPSTATUS">
+      <![CDATA[Suspended]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[Sophia]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Martinez]]>
+    </COLUMN>
+    <COLUMN NAME="DATEOFBIRTH">
+      <![CDATA[2001-03-19T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="GENDER">
+      <![CDATA[Female]]>
+    </COLUMN>
+    <COLUMN NAME="EMAIL">
+      <![CDATA[sophia.martinez@email.com]]>
+    </COLUMN>
+    <COLUMN NAME="JOINDATE">
+      <![CDATA[2026-01-15T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPSTATUS">
+      <![CDATA[Active]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[6]]>
+    </COLUMN>
+    <COLUMN NAME="FIRSTNAME">
+      <![CDATA[Noah]]>
+    </COLUMN>
+    <COLUMN NAME="LASTNAME">
+      <![CDATA[Davis]]>
+    </COLUMN>
+    <COLUMN NAME="DATEOFBIRTH">
+      <![CDATA[1997-08-08T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="GENDER">
+      <![CDATA[Male]]>
+    </COLUMN>
+    <COLUMN NAME="EMAIL">
+      <![CDATA[noah.davis@email.com]]>
+    </COLUMN>
+    <COLUMN NAME="JOINDATE">
+      <![CDATA[2026-01-18T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPSTATUS">
+      <![CDATA[Inactive]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

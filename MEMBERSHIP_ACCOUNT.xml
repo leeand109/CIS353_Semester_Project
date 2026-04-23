@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="ACCOUNTID">
+      <![CDATA[101]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPTYPE">
+      <![CDATA[Premium]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-05T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-12-31T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MONTHLYFEE">
+      <![CDATA[45]]>
+    </COLUMN>
+    <COLUMN NAME="PAYMENTSTATUS">
+      <![CDATA[Paid]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ACCOUNTID">
+      <![CDATA[102]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[2]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPTYPE">
+      <![CDATA[Basic]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-07T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-06-30T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MONTHLYFEE">
+      <![CDATA[25]]>
+    </COLUMN>
+    <COLUMN NAME="PAYMENTSTATUS">
+      <![CDATA[Paid]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ACCOUNTID">
+      <![CDATA[103]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPTYPE">
+      <![CDATA[Platinum]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-10T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-12-31T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MONTHLYFEE">
+      <![CDATA[60]]>
+    </COLUMN>
+    <COLUMN NAME="PAYMENTSTATUS">
+      <![CDATA[Paid]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ACCOUNTID">
+      <![CDATA[104]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPTYPE">
+      <![CDATA[Basic]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-12T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-05-31T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MONTHLYFEE">
+      <![CDATA[25]]>
+    </COLUMN>
+    <COLUMN NAME="PAYMENTSTATUS">
+      <![CDATA[Overdue]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ACCOUNTID">
+      <![CDATA[105]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPTYPE">
+      <![CDATA[Premium]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-15T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-10-31T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MONTHLYFEE">
+      <![CDATA[45]]>
+    </COLUMN>
+    <COLUMN NAME="PAYMENTSTATUS">
+      <![CDATA[Paid]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="ACCOUNTID">
+      <![CDATA[106]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[6]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERSHIPTYPE">
+      <![CDATA[Basic]]>
+    </COLUMN>
+    <COLUMN NAME="STARTDATE">
+      <![CDATA[2026-01-18T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="ENDDATE">
+      <![CDATA[2026-04-30T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="MONTHLYFEE">
+      <![CDATA[25]]>
+    </COLUMN>
+    <COLUMN NAME="PAYMENTSTATUS">
+      <![CDATA[Unpaid]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>

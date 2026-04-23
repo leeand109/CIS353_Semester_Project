@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF8"?>
+<RESULTS>
+  <ROW>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[601]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONDATE">
+      <![CDATA[2026-02-03T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="DURATIONMINUTES">
+      <![CDATA[60]]>
+    </COLUMN>
+    <COLUMN NAME="CALORIESBURNED">
+      <![CDATA[420]]>
+    </COLUMN>
+    <COLUMN NAME="WORKOUTTYPE">
+      <![CDATA[Strength]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[602]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[1]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONDATE">
+      <![CDATA[2026-02-10T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="DURATIONMINUTES">
+      <![CDATA[55]]>
+    </COLUMN>
+    <COLUMN NAME="CALORIESBURNED">
+      <![CDATA[390]]>
+    </COLUMN>
+    <COLUMN NAME="WORKOUTTYPE">
+      <![CDATA[Strength]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[603]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[2]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONDATE">
+      <![CDATA[2026-02-05T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="DURATIONMINUTES">
+      <![CDATA[50]]>
+    </COLUMN>
+    <COLUMN NAME="CALORIESBURNED">
+      <![CDATA[500]]>
+    </COLUMN>
+    <COLUMN NAME="WORKOUTTYPE">
+      <![CDATA[Cardio]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[604]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONDATE">
+      <![CDATA[2026-02-07T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="DURATIONMINUTES">
+      <![CDATA[45]]>
+    </COLUMN>
+    <COLUMN NAME="CALORIESBURNED">
+      <![CDATA[360]]>
+    </COLUMN>
+    <COLUMN NAME="WORKOUTTYPE">
+      <![CDATA[Cardio]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[605]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[3]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONDATE">
+      <![CDATA[2026-02-14T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="DURATIONMINUTES">
+      <![CDATA[70]]>
+    </COLUMN>
+    <COLUMN NAME="CALORIESBURNED">
+      <![CDATA[430]]>
+    </COLUMN>
+    <COLUMN NAME="WORKOUTTYPE">
+      <![CDATA[Mixed]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[606]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[4]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONDATE">
+      <![CDATA[2026-02-08T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="DURATIONMINUTES">
+      <![CDATA[65]]>
+    </COLUMN>
+    <COLUMN NAME="CALORIESBURNED">
+      <![CDATA[410]]>
+    </COLUMN>
+    <COLUMN NAME="WORKOUTTYPE">
+      <![CDATA[Strength]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[607]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONDATE">
+      <![CDATA[2026-02-09T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="DURATIONMINUTES">
+      <![CDATA[58]]>
+    </COLUMN>
+    <COLUMN NAME="CALORIESBURNED">
+      <![CDATA[395]]>
+    </COLUMN>
+    <COLUMN NAME="WORKOUTTYPE">
+      <![CDATA[Strength]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[608]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[5]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONDATE">
+      <![CDATA[2026-02-18T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="DURATIONMINUTES">
+      <![CDATA[40]]>
+    </COLUMN>
+    <COLUMN NAME="CALORIESBURNED">
+      <![CDATA[320]]>
+    </COLUMN>
+    <COLUMN NAME="WORKOUTTYPE">
+      <![CDATA[Flexibility]]>
+    </COLUMN>
+  </ROW>
+  <ROW>
+    <COLUMN NAME="SESSIONID">
+      <![CDATA[609]]>
+    </COLUMN>
+    <COLUMN NAME="MEMBERID">
+      <![CDATA[6]]>
+    </COLUMN>
+    <COLUMN NAME="SESSIONDATE">
+      <![CDATA[2026-02-12T00:00:00Z]]>
+    </COLUMN>
+    <COLUMN NAME="DURATIONMINUTES">
+      <![CDATA[35]]>
+    </COLUMN>
+    <COLUMN NAME="CALORIESBURNED">
+      <![CDATA[280]]>
+    </COLUMN>
+    <COLUMN NAME="WORKOUTTYPE">
+      <![CDATA[Cardio]]>
+    </COLUMN>
+  </ROW>
+</RESULTS>
